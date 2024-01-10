@@ -1,0 +1,31 @@
+h1 {
+  margin-bottom: 10px;
+  font-size: 30px;
+  color: blue;
+}
+
+p {
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: rgb(5, 87, 87);
+}
+
+a {
+  margin-bottom: 10px;
+  font-size: 15px;
+  text-decoration: none;
+  color: brown;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:focus {
+  color: black;
+}
+
+.output {
+  font-size: 20px;
+  color: red;
+}
